@@ -1,0 +1,36 @@
+.container {
+    max-width: 1140px;
+    margin: 0px auto;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.space-between{
+    justify-content: space-between;
+}
+.align-items-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.w-50{
+    width: 50%;
+}
+.w-25{
+    width: 25%;
+}
+.w-75{
+    width: 75%;
+}
+.w-33{
+    width: 33%;
+}
+.space-evenly{
+    justify-content: space-evenly;
+}
+.position-relative{
+    position:relative;
+}
